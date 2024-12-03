@@ -1,0 +1,55 @@
+
+envoyer = a trimite
+demander = a întreba, a cere
+connaître = a cunoaște
+savoir = a ști
+partir = a pleca
+sortir = a ieși
+a scoate = a scoate
+dormir = a dormi
+servir = a servi
+mentir = a minți
+sentir = a simți
+
+J'envoie = Eu trimit
+Tu envoies = Tu trimiți
+Il envoie = El trimite
+Nous envoyons = Noi trimitem
+Vous envoyez = Voi trimiteți
+
+Je connais = Eu cunosc
+Tu connais = Tu cunoști
+Il connaît = El cunoaște
+Nous connaissons = Noi cunoaștem
+Vous connaissez = Voi cunoașteți
+Ils connaissent = Ei cunosc
+
+Je sais = Eu știu
+Je connais le secret de mon amie = Eu cunosc secretul prietenei mele
+Je sais nager = Eu știu să înot
+Tu sais = Tu știi
+Je sais que tu as un secret = Eu știu că ai un secret
+Il sait = El știe
+Il sait trésor = El știe comoara
+Ils savent = Ei știu
+
+Je pars = Eu plec
+Tu pars = Tu pleci
+Il part = El pleacă
+Nous partons = Noi plecăm
+Vous partez = Voi plecați
+Ils partent = Ei pleacă
+
+Je sens = Eu simt
+Tu sens = Tu simți
+Il sent = El simte
+Nous sentons = Noi simțim
+Vous sentez = Voi simțiți
+Ils sentent = Ei simt
+
+Je mens = Eu mint
+Tu mens = Tu minți
+Il ment = El minte
+Nous mentons = Noi mințim
+Vous mentez = Voi mințiți
+Ils mentent = Ei mint
